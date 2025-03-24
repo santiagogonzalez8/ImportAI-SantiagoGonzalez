@@ -7,7 +7,7 @@ Comisión: 84165
 Este proyecto usa *Fast Prompting* con Google Gemini (gratuito) para optimizar la importación y venta de productos en Uruguay. Selecciona categorías rentables, estima márgenes, sugiere proveedores y genera descripciones visuales atractivas.
 
 ## Enlace al Google Colab
-[ImportAI en Google Colab](https://colab.research.google.com/drive/TU_ENLACE_AQUI)
+[ImportAI en Google Colab](https://colab.research.google.com/drive/(https://colab.research.google.com/drive/1UyuzcVuy1hVFW8DTPI_AEM8VLLTyMyaT?usp=sharing))
 
 ## Instrucciones
 1. Abre el enlace en Google Colab.
